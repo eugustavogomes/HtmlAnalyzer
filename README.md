@@ -1,7 +1,5 @@
 # HtmlAnalyzer
 
-This program reads a structured HTML, identifies, and returns the text at the deepest level according to the rules of the Axur Internship challenge.
-
 ## How to compile and run
 
 javac HtmlAnalyzer.java
